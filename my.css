@@ -15,7 +15,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #333333;
+  background-color: #333333; 
 }
 li a {
   display: block;
@@ -33,3 +33,16 @@ h1.fab{
 h3{
 	color:red;
 }
+table,th,td {
+border: 1px solid black;
+width:100%;
+border-collapse:collapse;
+}
+tr:hover{
+	background-color:#FF6347;
+}
+caption{
+	font-size:300%;
+	color:#1E90FF;
+}
+
