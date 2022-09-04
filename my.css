@@ -35,7 +35,7 @@ h3{
 }
 table,th,td {
 border: 1px solid black;
-width:100%;
+
 border-collapse:collapse;
 }
 tr:hover{
@@ -45,4 +45,24 @@ caption{
 	font-size:300%;
 	color:#1E90FF;
 }
-
+div{
+	
+	font-size:200%;
+color:#4B0082;
+	background-color:#ADFF2F;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
+  text-align:center;
+}
+table {
+  width: 100%;
+}
+i.glyphicon glyphicon-envelope{
+	font-size:36px;
+	color:white;
+}
+div.lopp{
+	position:fixed;
+	
+}
